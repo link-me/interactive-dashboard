@@ -1,0 +1,25 @@
+﻿# Changelog
+
+- 2025-06-11: Improve performance
+- 2025-06-16: Refactor module
+- 2025-06-27: Add tests
+- 2025-06-28: Add feature
+- 2025-07-17: Refactor module
+- 2025-07-22: Enhance logging
+- 2025-07-26: Improve performance
+- 2025-07-28: Setup CI
+- 2025-08-02: Update dependencies
+- 2025-08-04: Add tests
+- 2025-08-06: Add tests
+- 2025-08-06: Refactor module
+- 2025-08-08: Enhance logging
+- 2025-08-29: Code cleanup
+- 2025-08-30: Setup CI
+- 2025-09-02: Setup CI
+- 2025-09-05: Improve performance
+- 2025-09-09: Enhance logging
+- 2025-09-10: Update dependencies
+- 2025-09-11: Setup CI
+- 2025-09-18: Update dependencies
+- 2025-09-20: Fix auth bug
+- 2025-10-06: Add feature
