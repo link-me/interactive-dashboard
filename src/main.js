@@ -14,3 +14,4 @@
 // Update dependencies
 // Fix auth bug
 // Add feature
+// Update docs
