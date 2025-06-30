@@ -24,3 +24,4 @@
 - 2025-09-20: Fix auth bug
 - 2025-10-06: Add feature
 - 2025-06-26: Update docs
+- 2025-06-30: Update docs
