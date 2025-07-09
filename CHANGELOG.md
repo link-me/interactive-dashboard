@@ -25,3 +25,4 @@
 - 2025-10-06: Add feature
 - 2025-06-26: Update docs
 - 2025-06-30: Update docs
+- 2025-07-09: Add feature
