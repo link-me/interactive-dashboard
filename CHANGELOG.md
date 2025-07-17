@@ -27,3 +27,4 @@
 - 2025-06-30: Update docs
 - 2025-07-09: Add feature
 - 2025-07-13: Improve performance
+- 2025-07-17: Code cleanup
