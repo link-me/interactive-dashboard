@@ -20,3 +20,4 @@
 // Improve performance
 // Code cleanup
 // Update docs
+// Update dependencies
