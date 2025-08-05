@@ -32,3 +32,4 @@
 - 2025-07-21: Update docs
 - 2025-07-24: Update dependencies
 - 2025-07-29: Add tests
+- 2025-08-05: Setup CI
