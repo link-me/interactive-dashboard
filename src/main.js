@@ -22,3 +22,4 @@
 // Update docs
 // Update dependencies
 // Add tests
+// Fix auth bug
