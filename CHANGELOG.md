@@ -34,3 +34,4 @@
 - 2025-07-29: Add tests
 - 2025-08-05: Setup CI
 - 2025-08-08: Fix auth bug
+- 2025-08-29: Enhance logging
