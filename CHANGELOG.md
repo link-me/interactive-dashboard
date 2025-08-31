@@ -35,3 +35,4 @@
 - 2025-08-05: Setup CI
 - 2025-08-08: Fix auth bug
 - 2025-08-29: Enhance logging
+- 2025-08-31: Code cleanup
