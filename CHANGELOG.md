@@ -41,3 +41,4 @@
 - 2025-09-08: Fix auth bug
 - 2025-09-14: Enhance logging
 - 2025-09-15: Update docs
+- 2025-09-26: Add feature
