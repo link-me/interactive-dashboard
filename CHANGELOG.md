@@ -42,3 +42,4 @@
 - 2025-09-14: Enhance logging
 - 2025-09-15: Update docs
 - 2025-09-26: Add feature
+- 2025-10-02: Update dependencies
