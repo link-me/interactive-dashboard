@@ -43,3 +43,4 @@
 - 2025-09-15: Update docs
 - 2025-09-26: Add feature
 - 2025-10-02: Update dependencies
+- 2025-10-06: Update docs
