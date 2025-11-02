@@ -25,6 +25,9 @@ Project Structure
 - `src/styles.css` – basic styles.
 - `src/main.js` – data generation, chart rendering, UI logic.
 
+Additional Docs
+- `docs/problem-value.md` – problem statement, value, use cases, non-goals, roadmap.
+
 Notes
 - Chart.js is pulled from CDN; no dependency installation required.
 - Works offline once cached, but first load requires internet for CDN.
