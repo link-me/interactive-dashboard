@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Interactive Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Interactive Dashboard</h1>
+      <p>Vanilla JS + Chart.js</p>
+    </header>
+
+    <section class="controls">
+      <label>
+        Range:
+        <select id="range">
+          <option value="3">Last 3 months</option>
+          <option value="6" selected>Last 6 months</option>
+          <option value="12">Last 12 months</option>
+        </select>
+      </label>
+      <label><input type="checkbox" id="toggle-visits" checked /> Visits</label>
+      <label><input type="checkbox" id="toggle-signups" checked /> Signups</label>
+      <label><input type="checkbox" id="toggle-conversions" checked /> Conversions</label>
+    </section>
+
+    <section class="chart-wrap">
+      <canvas id="chart" aria-label="Metrics over time" role="img"></canvas>
+    </section>
+
+    <section class="summary">
+      <h2>Summary</h2>
+      <table>
+        <tbody id="summary"></tbody>
+      </table>
+    </section>
+
+    <footer>
+      <small>Generated data for demo purposes</small>
+    </footer>
+
+    <script src="main.js"></script>
+  </body>
+  </html>
